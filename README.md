@@ -2,7 +2,7 @@
 
 --
 
-Warning:  while most of this code works, but it has been recently extracted from a different project, some cleanup is needed to ensure that the tests run and perhaps a few other things. It will have some polish soon, but for now expect some rough edges.
+Warning:  most of this code works, but it has been recently extracted from a different project, some cleanup is needed to ensure that the tests run and perhaps a few other things. It will have some polish soon, but for now expect some rough edges.
 
 --
 
