@@ -1,5 +1,9 @@
 # Slicetool
 
+--
+Warning:  while most of this code works, but it has been recently extracted from a different project, some cleanup is needed to ensure that the tests run and perhaps a few other things. It will have some polish soon, but for now expect some rough edges.
+--
+
 Slicetool is a framework for custom server-to-server database sync functions.  The primary question is this:  do you really need to transfer *all* the data?  If not, then this project might help you only transfer the data you need.
 There are two main ways slicetool helps you transfer fewer data:
 
